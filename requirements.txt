@@ -1,4 +1,0 @@
-Keras
-librosa
-Pillow
-numpy
